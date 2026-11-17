@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there, I'm Sudarshan A Patil 👋
 
-<!--
-**sudarshan237/sudarshan237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student focused on **backend engineering, distributed systems, and scalable architectures**. I build robust, high-performance systems using **Java**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages:** Java, SQL, JavaScript/TypeScript
+* **Backend & Systems:** Distributed Systems, REST APIs, Concurrency, Database Design
+* **Tools & Infrastructure:** Git, Linux, Docker
+
+---
+
+### 🚀 Featured Repositories
+* **[sudarshan237/sangyan-scamshield](https://github.com/sudarshan237/sangyan-scamshield)** — Scam detection and security utility system.
+* **[sudarshan237/code-a-nova](https://github.com/sudarshan237/code-a-nova)** — Algorithmic problem-solving and core logic implementation.
+* **[sudarshan237/freshcheck](https://github.com/sudarshan237/freshcheck)** — Web-based utility and tracking interface.
+
+---
+
+### 📊 GitHub Stats
+![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshan237&show_icons=true&theme=radical)
