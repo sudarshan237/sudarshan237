@@ -1,22 +1,17 @@
-### Hi there, I'm Sudarshan A Patil 👋
+# Sudarshan A Patil
+Java backend engineering student (B.E. CSE, VTU, 2029) · Bengaluru, India
+Seeking a Java backend internship (India / Remote).
 
-Computer Science Engineering student focused on **backend engineering, distributed systems, and scalable architectures**. I build robust, high-performance systems using **Java**.
+## Focus
+Backend and event-driven systems: Java 17, Spring Boot, Kafka, PostgreSQL.
 
----
+## Projects
+- **Event-Driven Order Service** (in progress): REST API, Kafka producer/consumer, PostgreSQL, deploying to AWS EC2 with GitHub Actions. [repo link]
+- **SANGYAN ScamShield**: deterministic rule engine in Java 17 that flags scam signals in messages. English/Hindi/Kannada. [repo link]
+- **RelayHQ**: kanban task dashboard with drag-and-drop and a deadline radar. [repo link]
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** Java, SQL, JavaScript/TypeScript
-* **Backend & Systems:** Distributed Systems, REST APIs, Concurrency, Database Design
-* **Tools & Infrastructure:** Git, Linux, Docker
+## Learning
+Spring Boot, PostgreSQL, JUnit/Mockito, Docker, AWS, distributed systems fundamentals.
 
----
-
-### 🚀 Featured Repositories
-* **[sudarshan237/sangyan-scamshield](https://github.com/sudarshan237/sangyan-scamshield)** — Scam detection and security utility system.
-* **[sudarshan237/code-a-nova](https://github.com/sudarshan237/code-a-nova)** — Algorithmic problem-solving and core logic implementation.
-* **[sudarshan237/freshcheck](https://github.com/sudarshan237/freshcheck)** — Web-based utility and tracking interface.
-
----
-
-### 📊 GitHub Stats
-![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudarshan237&show_icons=true&theme=radical)
+## Contact
+patil.sudu2307@gmail.com · [LinkedIn](https://linkedin.com/in/sudarshan-patil-)
